@@ -4,7 +4,8 @@
   "description": "Crawler that scrapes hotels websites do captures prices from specific querys, based on a given date range",
   "main": "app.js",
   "scripts": {
-    "test": "test-app.js"
+    "test": "test-app.js",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/guilhermetk/asksuite-test-recruiting-dev/issues"
   },
-  "homepage": "https://github.com/guilhermetk/asksuite-test-recruiting-dev#readme"
+  "homepage": "https://github.com/guilhermetk/asksuite-test-recruiting-dev#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "puppeteer": "^14.1.1"
+  }
 }
