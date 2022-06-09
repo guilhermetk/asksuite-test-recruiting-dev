@@ -1,6 +1,6 @@
 ## About
 
-Crawler that scrapes the website https://book.omnibees.com/ and returns hotels and it's rooms availabilities given a check-in and check-out dates.
+Crawler that scrapes the website https://book.omnibees.com/chainresults returning hotels and their rooms availabilities given a check-in and check-out dates.
 
 ## Setup
 
