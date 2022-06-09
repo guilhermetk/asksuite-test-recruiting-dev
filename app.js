@@ -1,5 +1,4 @@
 const express = require('express');
-
 const inboundRoute = require('./routes/inbound');
 
 const app = express();
