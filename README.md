@@ -28,8 +28,8 @@ Send a POST request to the url: http://your-server-url:3000/buscar with a JSON b
 
 ```JSON
 {
-    "checkin": "13/06/2021",
-    "checkiut": "14/06/2021"
+    "checkin": "30/06/2022",
+    "checkiut": "30/06/2022"
 }
 ```
 Dates <b>must</b> use the format: DD/MM/YYYY
