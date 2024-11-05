@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/guilhermetk/asksuite-test-recruiting-dev#readme",
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^4.21.1",
     "puppeteer": "^14.1.1"
   }
 }
